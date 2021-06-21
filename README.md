@@ -2,7 +2,9 @@
 
 ## I'm a Frontend Developer!!
 
-- I’m currently learning VueJS and then ReactJS 
+**Current Task:**
+- Launch Portfolio
+- Add more projects to website and profiles.
 - 2021 Goals: Contribute to my first Open Source projects
 
 
@@ -29,9 +31,18 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />&nbsp;
 
 <br />
-<br />
 
 ---
+
+#### Learning Path:
+Do you have any insights to share? Send suggestions or resources to me through Twitter. 
+
+**Current Order:**
+- [ ] Simple CD/CI for portfolio
+- [ ] Testing Methods
+- [ ] ReactJS
+- [ ] Ruby / PHP
+
 
 [website]: https://melissajkipp.com
 [twitter]: https://twitter.com/lint_on_kipp
