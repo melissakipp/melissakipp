@@ -3,7 +3,7 @@
 ## I'm a Frontend Developer!!
 
 **Current Task:**
-- Launch Portfolio
+- ~~Launch Portfolio~~
 - Add more projects to website and profiles.
 - 2021 Goals: Contribute to my first Open Source projects
 
