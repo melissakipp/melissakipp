@@ -38,7 +38,7 @@
 Do you have any insights to share? Send suggestions or resources to me through Twitter. 
 
 **Current Order:**
-- [ ] Simple CD/CI for portfolio
+- [X] Simple CD/CI for portfolio with Travis-CI
 - [ ] Testing Methods
 - [ ] ReactJS
 - [ ] Ruby / PHP
