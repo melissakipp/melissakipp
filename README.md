@@ -4,6 +4,7 @@
 
 **Current Task:**
 - ~~Launch Portfolio~~
+- Using Vagrant and Ansible for my upcoming projects.
 - Add more projects to website and profiles.
 - 2021 Goals: Contribute to my first Open Source projects
 
@@ -39,6 +40,7 @@ Do you have any insights to share? Send suggestions or resources to me through T
 
 **Current Order:**
 - [X] Simple CD/CI for portfolio with Travis-CI
+- [ ] Understanding how to structure an environment from development to production
 - [ ] Testing Methods
 - [ ] ReactJS
 - [ ] Ruby / PHP
