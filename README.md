@@ -49,7 +49,7 @@
 
 #### Learning Path:
 
-Do you have any insights to share? Send suggestions or resources to me through Twitter.
+Do you have any insights to share? Send suggestions or resources to share with me?
 
 **Current Order:**
 
