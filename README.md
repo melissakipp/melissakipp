@@ -77,10 +77,10 @@ Do you have any insights to share? Send suggestions or resources to share with m
 
 **Current Order:**
 
-- [x] Simple CD/CI for portfolio with Travis-CI
 - [x] React.js
 - [x] Test-Driven Development
 - [ ] CI/CD
+- [ ] Exposure to Docker, Github, and CI/CD-based workflows
 - [ ] Ruby / PHP
 - [ ] Vue.js
 - [ ] Android Development
@@ -89,4 +89,3 @@ Do you have any insights to share? Send suggestions or resources to share with m
 [twitter]: https://twitter.com/lint_on_kipp
 [instagram]: https://instagram.com/missyplusfour
 [linkedin]: https://linkedin.com/in/melissajkipp
-
