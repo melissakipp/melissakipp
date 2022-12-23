@@ -1,4 +1,4 @@
- # 📺 Hello, I'm Melissa [website] 👋
+# 📺 Hello, I'm Melissa [website] 👋
 
 ## I'm a Frontend Developer!!
 
@@ -50,7 +50,7 @@
 
 ---
 
-#### Learning Path:
+### Learning Path:
 
 Do you have any insights to share? Send suggestions or resources to share with me?
 
