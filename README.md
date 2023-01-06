@@ -89,3 +89,5 @@ Do you have any insights to share? Send suggestions or resources to share with m
 [twitter]: https://twitter.com/lint_on_kipp
 [instagram]: https://instagram.com/missyplusfour
 [linkedin]: https://linkedin.com/in/melissajkipp
+
+<img src="https://komarev.com/ghpvc/?username=melissakipp&style=flat-square&color=blueviolet" alt="GitHub page views">
