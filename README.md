@@ -90,3 +90,5 @@ Do you have any insights to share? Send suggestions or resources to share with m
 
 <br />
 <img src="https://komarev.com/ghpvc/?username=melissakipp&style=for-the-badge&color=blueviolet" alt="GitHub page views">
+<br />
+<a href="https://github.com/melissakipp/github-readme-stats"><img alt="Melissa Kipp's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=melissakipp&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
