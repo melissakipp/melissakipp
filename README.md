@@ -1,5 +1,7 @@
 # 📺 Hello, I'm Melissa [website] 👋
 
+[![An image of @melissakipp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/melissakipp)](https://holopin.io/@melissakipp)
+
 ## I'm a Full Stack Developer!!
 
 **Current Task:**
