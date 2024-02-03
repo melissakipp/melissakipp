@@ -2,12 +2,6 @@
 
 ## Open Source Badges
 [![An image of @melissakipp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/melissakipp)](https://holopin.io/@melissakipp)
-<br />
-## Education Badges
-Click to see profile: <br/>
-[<img align="left" alt="Credly by Pearson badges link" width="75px" src="https://github.com/melissakipp/melissakipp/assets/49261904/06a3e3f4-c1ae-453c-8e3e-2d70f089f5eb" />][credly] <br />
-
-
 
 ## I'm a Full Stack Developer!!
 
@@ -76,6 +70,10 @@ Click to see profile: <br/>
 <img align="left" alt="WordPress" title="WordPress" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> -->
 
 <br />
+
+## Educational Badges
+Click to see profile: <br/>
+[<img align="left" alt="Credly by Pearson badges link" width="75px" src="https://github.com/melissakipp/melissakipp/assets/49261904/06a3e3f4-c1ae-453c-8e3e-2d70f089f5eb" />][credly] <br />
 
 ---
 
