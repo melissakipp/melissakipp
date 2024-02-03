@@ -5,7 +5,7 @@
 <br />
 ## Badges
 Click to see profile: <br/>
-[<img align="left" alt="Credly by Pearson badges link" width="75px" src="https://github.com/melissakipp/melissakipp/assets/49261904/06a3e3f4-c1ae-453c-8e3e-2d70f089f5eb" />][credly]
+[<img align="left" alt="Credly by Pearson badges link" width="75px" src="https://github.com/melissakipp/melissakipp/assets/49261904/06a3e3f4-c1ae-453c-8e3e-2d70f089f5eb" />][credly] <br />
 
 ## I'm a Full Stack Developer!!
 
