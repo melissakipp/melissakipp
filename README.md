@@ -1,7 +1,7 @@
 # 📺 Hello, I'm Melissa [website] 👋
 
 ## Badges
-[<img align="left" alt="lint_on_kipp | Twitter" width="150px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Credly by Pearson]
+[<img align="left" alt="Credly by Pearson badges link" width="75px" src="https://github.com/melissakipp/melissakipp/assets/49261904/06a3e3f4-c1ae-453c-8e3e-2d70f089f5eb" />][Credly by Pearson]
 
 [![An image of @melissakipp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/melissakipp)](https://holopin.io/@melissakipp)
 
@@ -95,4 +95,3 @@
 <br />
 
 [![Counter for profile](https://visitcount.itsvg.in/api?id=melissakipp&icon=0&color=6)](https://visitcount.itsvg.in)
-![Credly by Pearson](https://github.com/melissakipp/melissakipp/assets/49261904/06a3e3f4-c1ae-453c-8e3e-2d70f089f5eb)
