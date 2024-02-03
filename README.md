@@ -1,5 +1,8 @@
 # 📺 Hello, I'm Melissa [website] 👋
 
+## Badges
+[<img align="left" alt="lint_on_kipp | Twitter" width="150px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Credly by Pearson]
+
 [![An image of @melissakipp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/melissakipp)](https://holopin.io/@melissakipp)
 
 ## I'm a Full Stack Developer!!
@@ -84,10 +87,12 @@
 [instagram]: https://instagram.com/missyplusfour
 [linkedin]: https://linkedin.com/in/melissajkipp
 
+
 <!-- <br />
 <img src="https://komarev.com/ghpvc/?username=melissakipp&style=for-the-badge&color=blueviolet" alt="GitHub page views"> -->
 <br />
 <a href="https://github.com/melissakipp/github-readme-stats"><img alt="Melissa Kipp's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=melissakipp&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br />
 
-[![](https://visitcount.itsvg.in/api?id=melissakipp&icon=0&color=6)](https://visitcount.itsvg.in)
+[![Counter for profile](https://visitcount.itsvg.in/api?id=melissakipp&icon=0&color=6)](https://visitcount.itsvg.in)
+![Credly by Pearson](https://github.com/melissakipp/melissakipp/assets/49261904/06a3e3f4-c1ae-453c-8e3e-2d70f089f5eb)
