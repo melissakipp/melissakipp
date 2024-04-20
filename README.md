@@ -50,7 +50,7 @@
 
 <img align="left" alt="Docker" title="Docker" width="38px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
-<img align="left" alt="Docker" title="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" alt="Docker" title="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
 <img align="left" alt="Next.js" title="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
@@ -86,7 +86,7 @@ Click to see profile: <br/>
 [<img align="left" alt="Credly by Pearson badges link" width="75px" src="https://github.com/melissakipp/melissakipp/assets/49261904/06a3e3f4-c1ae-453c-8e3e-2d70f089f5eb" />][credly] <br />
 
 [website]: https://melissajkipp.com
-[twitter]: https://twitter.com/lint_on_kipp
+[twitter]: https://twitter.com/_melissakipp
 [instagram]: https://instagram.com/missyplusfour
 [linkedin]: https://linkedin.com/in/melissajkipp
 [credly]: https://www.credly.com/users/melissakipp/badges
