@@ -1,8 +1,5 @@
 # 📺 Hello, I'm Melissa [website] 👋
 
-## Open Source Badges
-[![An image of @melissakipp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/melissakipp)](https://holopin.io/@melissakipp)
-
 ## I'm a Full Stack Developer!!
 
 **Current Task:**
@@ -11,7 +8,7 @@
 - ~~Complete Java Web Developer program from Merit America~~
 - Refactor portfolio site with NextJS.
 - Using Vagrant and Ansible for my upcoming projects.
-- 2023 Goals: Contribute to my first Open Source projects
+- 2024 Goals: Contribute to my first Open Source projects
 
 ### Connect with me:
 
@@ -54,11 +51,11 @@
 
 <img align="left" alt="Next.js" title="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
+<img align="left" alt="Typescript" title="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+
 <br />
 
 ### Next Badges:
-
-<img align="left" alt="Typescript" title="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 
 <img align="left" alt="vagrant" title="vagrant" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
 
@@ -66,12 +63,16 @@
 
 <img align="left" alt="jenkins" title="jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" />
 
-<!-- <img align="left" alt="PHP" title="PHP" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img align="left" alt="PHP" title="PHP" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 
-<img align="left" alt="WordPress" title="WordPress" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> -->
+<img align="left" alt="WordPress" title="WordPress" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+
+<img align="left" alt="Sanity" title="Sanity" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sanity/sanity-original.svg" />
+
+<img align="left" alt="WordPress" title="WordPress" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 
 <br />
-
+<!-- https://github.com/devicons -->
 ---
 
 ### Learning Plan:
@@ -79,11 +80,13 @@
 - [x] React.js & Next.js
 - [x] Test-Driven Development
 - [ ] Docker, Github, and CI/CD-based workflows
-- [ ] Android Development
 
 ## Educational Badges
 Click to see profile: <br/>
 [<img align="left" alt="Credly by Pearson badges link" width="75px" src="https://github.com/melissakipp/melissakipp/assets/49261904/06a3e3f4-c1ae-453c-8e3e-2d70f089f5eb" />][credly] <br />
+
+## Open Source Badges
+[![An image of @melissakipp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/melissakipp)](https://holopin.io/@melissakipp)
 
 [website]: https://melissajkipp.com
 [twitter]: https://twitter.com/_melissakipp
@@ -91,11 +94,8 @@ Click to see profile: <br/>
 [linkedin]: https://linkedin.com/in/melissajkipp
 [credly]: https://www.credly.com/users/melissakipp/badges
 
-
-<!-- <br />
-<img src="https://komarev.com/ghpvc/?username=melissakipp&style=for-the-badge&color=blueviolet" alt="GitHub page views"> -->
 <br />
 <a href="https://github.com/melissakipp/github-readme-stats"><img alt="Melissa Kipp's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=melissakipp&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br />
 
-[![Counter for profile](https://visitcount.itsvg.in/api?id=melissakipp&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=melissakipp&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
