@@ -49,7 +49,7 @@
 
 <img align="left" alt="Docker" title="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
-<img align="left" alt="Next.js" title="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
 <img align="left" alt="Typescript" title="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 
@@ -68,8 +68,6 @@
 <img align="left" alt="WordPress" title="WordPress" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 
 <img align="left" alt="Sanity" title="Sanity" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sanity/sanity-original.svg" />
-
-<img align="left" alt="WordPress" title="WordPress" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 
 <br />
 <!-- https://github.com/devicons -->
@@ -97,5 +95,4 @@ Click to see profile: <br/>
 <br />
 <a href="https://github.com/melissakipp/github-readme-stats"><img alt="Melissa Kipp's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=melissakipp&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br />
-
-[![](https://visitcount.itsvg.in/api?id=melissakipp&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=melissakipp&color=493365)
