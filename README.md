@@ -55,7 +55,7 @@
 
 <br />
 
-### Next Badges:
+### Next:
 
 <img align="left" alt="vagrant" title="vagrant" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
 
