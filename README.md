@@ -1,98 +1,61 @@
-# 📺 Hello, I'm Melissa [website] 👋
+# 👋 Hi, I’m Melissa
 
-## I'm a Full Stack Developer!!
+I used to work in childcare, where supporting kids was part of every day. Now, I take that same care into **designing, building, and improving digital spaces**.
 
-**Current Task:**
+I specialize in **frontend development, UX-UI design, and digital marketing**, crafting user-centered experiences that align with mission-driven brands and small businesses.
 
-- ~~Launch Portfolio~~
-- ~~Complete Java Web Developer program from Merit America~~
-- Refactor portfolio site with NextJS.
-- Using Vagrant and Ansible for my upcoming projects.
-- 2024 Goals: Contribute to my first Open Source projects
+🌿 **Currently Working On:**  
+- Building clean, accessible frontend projects (Next.js, TypeScript, Tailwind)  
+- Supporting mission-aligned teams with design + digital strategy  
+- Learning and sharing my process as I grow
 
-### Connect with me:
+🔍 **What I Value:**  
+- Clarity and simplicity in design and code  
+- Accessible, inclusive web practices  
+- Thoughtful iteration and continuous learning  
+- Serving others through meaningful work
 
-[<img align="left" alt="Melissa J Kipp dot com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="lint_on_kipp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="melissakipp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🛠️ Technologies and Tools I use:
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25px" />
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25px" />
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="25px" />
+<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px" />
+<img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25px" />
+<img alt="cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" height="25px" />
+<img alt="jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" height="25px" />
+<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
+<img alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" height="25px" />
+<img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="25px" />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25px" />
+<img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="25px" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25px"/>
+<img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" height="25px" />
+<img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="25px" />
+<img alt="Accessibility" src="https://img.shields.io/badge/Accessibility-%230170EA.svg?style=for-the-badge&logo=Accessibility&logoColor=white" height="25px" />
+<img alt="NVDA" src="https://img.shields.io/badge/NVDA-%23630093.svg?style=for-the-badge&logo=NVDA&logoColor=white" height="25px" />
+<img alt="Sanity" src="https://img.shields.io/badge/Sanity-F03E2F?logo=sanity&logoColor=fff&style=flat-square" height="25px" />
+<img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" height="25px" />
+<img alt="Cloudinary" src="https://img.shields.io/badge/Cloudinary-3448c5.svg?style=for-the-badge&logo=Cloudinary=white" height="25px" />
+<img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="25px" />
+<img alt="freelancer" src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" height="25px" />
 
-<br />
 
-### Languages and Tools:
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+## 📬 Let’s connect
 
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+💼 [LinkedIn](https://www.linkedin.com/in/melissajkipp/)  
+🌐 [melissajkipp.com](https://melissajkipp.com)  
+📚 [Credly Badges](https://www.credly.com/users/melissakipp/badges)
 
-<img align="left" alt="Sass" title="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
-<img align="left" alt="React.js" title="React.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
-<img align="left" alt="Spring" title="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-<img align="left" alt="Docker" title="Docker" width="38px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
-<img align="left" alt="Docker" title="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-
-<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-
-<img align="left" alt="Typescript" title="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-
-<br />
-
-### Next:
-
-<img align="left" alt="vagrant" title="vagrant" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
-
-<img align="left" alt="ansible" title="ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
-
-<img align="left" alt="jenkins" title="jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" />
-
-<img align="left" alt="PHP" title="PHP" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-
-<img align="left" alt="WordPress" title="WordPress" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-
-<img align="left" alt="Sanity" title="Sanity" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sanity/sanity-original.svg" />
-
-<br />
-<!-- https://github.com/devicons -->
 ---
 
-### Learning Plan:
+> “Design is really an act of communication, which means having a deep understanding of the person with whom the designer is communicating.” – Don Norman
 
-- [x] React.js & Next.js
-- [x] Test-Driven Development
-- [ ] Docker, Github, and CI/CD-based workflows
+> "To tell a good story, start super small." – Katie E. Lawrence, Medium
 
-## Educational Badges
-Click to see profile: <br/>
-[<img align="left" alt="Credly by Pearson badges link" width="75px" src="https://github.com/melissakipp/melissakipp/assets/49261904/06a3e3f4-c1ae-453c-8e3e-2d70f089f5eb" />][credly] <br />
+Thanks for visiting my GitHub space 🌿
 
-## Open Source Badges
-[![An image of @melissakipp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/melissakipp)](https://holopin.io/@melissakipp)
+<!-- https://ileriayo.github.io/markdown-badges/#badges -->
 
-[website]: https://melissajkipp.com
-[twitter]: https://twitter.com/_melissakipp
-[instagram]: https://instagram.com/missyplusfour
-[linkedin]: https://linkedin.com/in/melissajkipp
-[credly]: https://www.credly.com/users/melissakipp/badges
-
-<br />
-<a href="https://github.com/melissakipp/github-readme-stats"><img alt="Melissa Kipp's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=melissakipp&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-<br />
-<img src="https://komarev.com/ghpvc/?username=melissakipp&style=flat-square&color=493365" alt="profile views counter">
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-BD5FFF?style=flat-square&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/melissakipp)
