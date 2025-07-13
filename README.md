@@ -1,4 +1,6 @@
-# 👋 Hi, I’m Melissa
+<!-- # 👋 Hi, I’m Melissa -->
+![Hello, I'm Melissa](github-cover.png)
+---
 
 I used to work in childcare, where supporting kids was part of every day. Now, I take that same care into **designing, building, and improving digital spaces**.
 
